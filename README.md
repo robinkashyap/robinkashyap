@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Robin Kashyap
 
 I am from Himachal Pradesh and currently pursuing my Btech degree in Computer Science from Lovely Professional University.
-An enthusiastic engineering fresher who is a self-starter and capable to use technical skills for the betterment of the organization. Seeking an entry-level opportunity with an esteemed organization where I can utilize my skills and enhance learning. Capable of mastering new technologies.
+An enthusiastic engineer who is a self-starter and capable of using technical skills for the betterment of the organization. Seeking an opportunity with an esteemed organization where I can utilize my skills and enhance learning with growth of the organization. Capable of mastering new technologies.
 
 Skills: Python / Machine Learning / Tableau / MySQL / HTML / CSS / Bootstrap / JavaScript  
 
